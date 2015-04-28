@@ -1,0 +1,25 @@
+     defensive:
+        - tackle
+        - inter
+        - fouls
+        - clear
+        - drb
+        - blocks
+     offensive:
+        - goals
+        - assists
+        - spG
+        - drb
+        - fouled
+        - off
+        - disp
+        - badCtrl
+        - avgP
+        - ps%
+        - thrB
+     general:
+        - apps
+        - mins
+        - rating
+        - age
+        - height
