@@ -1,4 +1,4 @@
-package com.playerplanet.dbloader.model;
+package com.playerplanet.core.model;
 
 import java.util.List;
 

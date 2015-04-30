@@ -1,4 +1,4 @@
-package com.playerplanet.dbloader.model;
+package com.playerplanet.core.model;
 
 public class Player {
 

@@ -12,11 +12,11 @@
     <artifactId>playerplanet-service</artifactId>
 
     <dependencies>
-      <!--  <dependency>
+        <dependency>
             <groupId>com.stanley.projects</groupId>
             <artifactId>playerplanet-core</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>-->
+        </dependency>
         <dependency>
             <groupId>io.dropwizard</groupId>
             <artifactId>dropwizard-core</artifactId>

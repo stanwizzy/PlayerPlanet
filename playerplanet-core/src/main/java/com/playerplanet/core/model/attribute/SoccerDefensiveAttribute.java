@@ -1,13 +1,14 @@
-package com.playerplanet.dbloader.model.attribute;
+package com.playerplanet.core.model.attribute;
 
 
 import java.util.Map;
 
-public class SoccerAttackingAttribute implements Attribute {
+public class SoccerDefensiveAttribute implements Attribute {
+
 
     @Override
     public void setAttribute(String attr, String value) {
-        
+
     }
 
     @Override
@@ -19,4 +20,6 @@ public class SoccerAttackingAttribute implements Attribute {
     public Map<String, String> getAllAttributes() {
         return null;
     }
+
+
 }

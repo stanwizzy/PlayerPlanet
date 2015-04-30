@@ -1,8 +1,9 @@
-package com.playerplanet.dbloader.model.attribute;
+package com.playerplanet.core.model.attribute;
 
 import com.playerplanet.core.exception.PlayerPlanetException;
-import com.playerplanet.dbloader.util.Sport;
-import org.apache.log4j.Logger;
+import com.playerplanet.core.util.Sport;
+
+import static com.playerplanet.core.util.Sport.*;
 
 
 public class AttributeFactory {

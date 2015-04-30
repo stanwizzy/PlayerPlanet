@@ -2,6 +2,7 @@ package com.playerplanet.dbloader.util;
 
 
 import com.playerplanet.core.exception.PlayerPlanetException;
+import com.playerplanet.core.util.Sport;
 import org.apache.log4j.Logger;
 
 public class RequestPlatform {

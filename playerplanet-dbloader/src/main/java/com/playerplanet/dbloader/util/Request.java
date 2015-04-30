@@ -1,6 +1,7 @@
 package com.playerplanet.dbloader.util;
 
 import com.playerplanet.core.exception.PlayerPlanetException;
+import com.playerplanet.core.util.Sport;
 
 public class Request{
 

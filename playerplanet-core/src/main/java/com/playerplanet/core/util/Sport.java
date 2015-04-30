@@ -1,4 +1,4 @@
-package com.playerplanet.dbloader.util;
+package com.playerplanet.core.util;
 
 
 public enum Sport {

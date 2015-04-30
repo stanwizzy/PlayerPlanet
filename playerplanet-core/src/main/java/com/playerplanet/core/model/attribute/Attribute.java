@@ -1,4 +1,4 @@
-package com.playerplanet.dbloader.model.attribute;
+package com.playerplanet.core.model.attribute;
 
 
 import java.util.Map;

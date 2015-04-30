@@ -1,6 +1,7 @@
 package com.playerplanet.service.resource;
 
-import com.playerplanet.service.api.Pojo;
+import com.playerplanet.core.model.Player;
+import com.playerplanet.core.mongo.MongoAccess;
 import com.playerplanet.service.api.init.MongoDataAccessFactory;
 
 import javax.ws.rs.GET;
@@ -26,7 +27,8 @@ public class PlayerPlanetSoccerResource {
     @Produces(value = MediaType.APPLICATION_JSON)
     @Path("/player")
     public Player getPlayer(@QueryParam("player") String player){
-        MongoDataAccess mongoDataAccess =MongoDataAccessFactory.getMongoDataAccess();
+        MongoAccess mongoDataAccess = MongoDataAccessFactory.getMongoDataAccess();
+        return null;
     }
 
     /**
