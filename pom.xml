@@ -11,6 +11,7 @@
     <modules>
         <module>playerplanet-core</module>
         <module>playerplanet-dbloader</module>
+        <module>playerplanet-service</module>
     </modules>
 
     <dependencies>
